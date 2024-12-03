@@ -14,10 +14,43 @@ Decission tree merupakan.
 
 
 ## 📑 : **Data**
-Berikut merupakan data yang digunakan:
-<p align="center" width="100%">
-    <img width="100%" src="https://raw.githubusercontent.com/seanmarshelleproj/scrapping.proj/main/scrapping%20image/Screenshot%202024-05-28%20145006.png">
-</p>
+Berikut merupakan variable data yang digunakan:
+| Variable|
+|:------------------|
+| Timestamp|
+| Age|
+| Primary streaming service|
+| Hours per day|
+| While working| 
+| Instrumentalist|
+| Composer| 
+| Favorite genre|
+| Exploratory|
+| Foreign languages|
+| BPM|
+| Frequency Classical|
+| Frequency Country|
+| Frequency EDM|
+| Frequency Folk|
+| Frequency Gospel|
+| Frequency Hip hop|
+| Frequnecy Jazz|
+| Frequency K pop|
+| Frequnecy Latin|
+| Frequnecy Lofi|
+| Frequnecy Metal|
+| Frequnecy Pop|
+| Frequnecy RnB|
+| Frequnecy Rap|
+| Frequnecy Rock|
+| Frequnecy Video game music|
+| Anxiety|
+| Depression|
+| Insomnia|
+| OCD|
+| Music effect|
+| Permisssion|
+
 
 ## 📺 : **Tampilan Dashboard**
 Berikut merupakan contoh tampilan dashboard:
