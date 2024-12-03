@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="50%" src="[https://static.vecteezy.com/system/resources/previews/003/108/337/large_2x/fitness-gym-logo-with-strong-athlete-and-barbell-vector.jpg](https://raw.githubusercontent.com/seanmarshelleproj/dashboard.proj/refs/heads/main/Gambar/picture%201.jpg)">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/picture%201.jpg">
 </p>
 
 ## 📖: **Deskripsi**
