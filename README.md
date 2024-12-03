@@ -21,8 +21,14 @@ Berikut merupakan data yang digunakan:
 
 ## 📺 : **Tampilan Dashboard**
 Berikut merupakan contoh tampilan dashboard:
-<p align="center" width="100%">
-    <img width="100%" src="https://raw.githubusercontent.com/seanmarshelleproj/scrapping.proj/main/scrapping%20image/Screenshot%202024-05-28%20145006.png">
+<p align="center" width="50%">
+    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223331.png">
+</p>
+<p align="center" width="50%">
+    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223403.png">
+</p>
+<p align="center" width="50%">
+    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223430.png">
 </p>
 
 ## 💽: **Demo**
