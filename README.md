@@ -61,16 +61,16 @@ Berikut merupakan variable data yang digunakan:
 ## 📺 : **Tampilan Dashboard**
 Berikut merupakan contoh tampilan dashboard:
 <p align="center" width="50%">
-    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223331.png">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223331.png">
 </p>
 <p align="center" width="50%">
-    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223403.png">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223403.png">
 </p>
 <p align="center" width="50%">
-    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223430.png">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223430.png">
 </p>
 <p align="center" width="50%">
-    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-04%20095344.png">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-04%20095344.png">
 </p>
 
 ## 💽: **Demo**
