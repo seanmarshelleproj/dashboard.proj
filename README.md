@@ -9,7 +9,13 @@ Musik adalah salah satu bentuk kesenian yang didengarkan lewat indra pendengaran
 
 ## 🌲: **Pemodelan**
 <p align="justify">
-Decission tree merupakan. 
+Decission Tree merupakan metode pembelajaran mesin yang populer dengan kemampuan untuk melakukan analisa dataset dengan menghasilkan sebuah set peraturan pemilihan. Peraturan ini diatur dalam sebuah pohon dimana setiap variable membuat sebuah node pemilihan. Metode ini sangat cocok digunakan pada data kategorik dan kontinu, mudah dipahami dan waktu komputasi yang cepat (Mutlu, et al., 2023).
+</p>
+<p align="center" width="50%">
+    <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-04%20095344.png">
+</p>
+<p align="justify">
+Mutlu, H. B., Yucel, N., Durmaz, F., Cengil, E., dan Yildirim, M. 2023. Prediction of Maternal Health Risk with Traditional Machine Learning Methods. NATURENGS: MTU Journal of Engineering and Natural Sciences, 4(1): 16 - 23.
 </p>
 
 
@@ -62,6 +68,9 @@ Berikut merupakan contoh tampilan dashboard:
 </p>
 <p align="center" width="50%">
     <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-03%20223430.png">
+</p>
+<p align="center" width="50%">
+    <img width="100%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/Screenshot%202024-12-04%20095344.png">
 </p>
 
 ## 💽: **Demo**
