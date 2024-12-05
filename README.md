@@ -4,12 +4,21 @@
 
 ## 📖: **Deskripsi**
 <p align="justify">
-Musik adalah salah satu bentuk kesenian yang didengarkan lewat indra pendengaran yaitu telinga. Beberapa jenis genre musik modern seperti pop, rock, jazz, hip hop, R&B, reggae, metal, blues, punk, dangdut, dan lain-lain. 
+Musik adalah salah satu bentuk kesenian yang didengarkan lewat indra pendengaran yaitu telinga. Beberapa jenis genre musik modern seperti pop, rock, jazz, hip hop, R&B, reggae, metal, blues, punk, dangdut, dan lain-lain. Musik telah terbukti secara efektif mengurangi stres melalui meta-analisis terhadap 20 artikel penelitian dengan 40 studi, yang melibatkan 1.555 partisipan dari berbagai rentang usia. Musik juga diketahui memperbaiki aspek fisik, perilaku, dan psikologis terkait stres (Dewi, 2009). 
+</p>
+<p align="justify">
+Musik membantu pemulihan mood saat belajar dengan beberapa efek positif, seperti menghilangkan rasa bosan, meningkatkan kreativitas berpikir, menambah kosakata, memberikan rasa rileks dan tenang, mempermudah mengingat pelajaran, serta mengurangi rasa gugup dan stres. Musik berlirik seperti Pop dan K-Pop sering digunakan oleh mahasiswa dalam proses belajar mereka. Meski ada potensi dampak negatif, sebagian besar mahasiswa melaporkan efek positif musik dalam merangsang otak dan memengaruhi mood belajar. Disarankan untuk mendengarkan musik instrumental terlebih dahulu sebelum musik berlirik untuk menjaga stabilitas emosi. Penelitian lebih lanjut dianjurkan untuk mengeksplorasi pengaruh signifikan musik terhadap mood, dengan sampel penelitian yang lebih spesifik berdasarkan karakteristik seperti jenis kelamin dan gaya belajar (Amelia & Aryaneta, 2022).
+</p>
+<p align="justify">
+Dewi, Mahargyantari P., 2009. Studi Meta analisis: Musik untuk Menurunkan Stres. Jurnal Psikologi, 36(2): 106 - 115.
+</p>
+<p align="justify">
+Amelia, Cevy dan Aryaneta Yenni. Pengaruh Musik Terhadap Emosi. Jurnal Ilmiah Zona Psikologi, 4(3): 1 - 6.
 </p>
 
 ## 🌲: **Pemodelan**
 <p align="justify">
-Decission Tree merupakan metode pembelajaran mesin yang populer dengan kemampuan untuk melakukan analisa dataset dengan menghasilkan sebuah set peraturan pemilihan. Peraturan ini diatur dalam sebuah pohon dimana setiap variable membuat sebuah node pemilihan. Metode ini sangat cocok digunakan pada data kategorik dan kontinu, mudah dipahami dan waktu komputasi yang cepat (Mutlu, et al., 2023).
+Decision Tree merupakan metode pembelajaran mesin yang populer dengan kemampuan untuk melakukan analisa dataset dengan menghasilkan sebuah set peraturan pemilihan. Peraturan ini diatur dalam sebuah pohon dimana setiap variable membuat sebuah node pemilihan. Metode ini sangat cocok digunakan pada data kategorik dan kontinu, mudah dipahami dan waktu komputasi yang cepat (Mutlu, et al., 2023).
 </p>
 <p align="center" width="50%">
     <img width="50%" src="https://github.com/seanmarshelleproj/dashboard.proj/blob/main/Gambar/decision_tree_2024-12-04.png">
