@@ -7,7 +7,7 @@
 Musik adalah salah satu bentuk kesenian yang didengarkan lewat indra pendengaran yaitu telinga. Musik telah terbukti secara efektif mengurangi stres melalui meta-analisis yang melibatkan 1.555 partisipan dari berbagai rentang usia. Musik juga diketahui memperbaiki aspek fisik, perilaku, dan psikologis terkait stres (Dewi, 2009). 
 </p>
 <p align="justify">
-Musik membantu pemulihan mood saat belajar dengan beberapa efek positif, seperti menghilangkan rasa bosan, meningkatkan kreativitas berpikir, menambah kosakata, memberikan rasa rileks dan tenang, mempermudah mengingat pelajaran, serta mengurangi rasa gugup dan stres. Musik berlirik seperti Pop dan K-Pop sering digunakan oleh mahasiswa dalam proses belajar mereka. Meski ada potensi dampak negatif, sebagian besar mahasiswa melaporkan efek positif musik dalam merangsang otak dan memengaruhi mood belajar. Disarankan untuk mendengarkan musik instrumental terlebih dahulu sebelum musik berlirik untuk menjaga stabilitas emosi (Amelia & Aryaneta, 2022).
+Musik membantu pemulihan mood saat belajar dengan beberapa efek positif, seperti menghilangkan rasa bosan, meningkatkan kreativitas berpikir, menambah kosakata, memberikan rasa rileks dan tenang, mempermudah mengingat pelajaran, serta mengurangi rasa gugup dan stres. Disarankan untuk mendengarkan musik instrumental terlebih dahulu sebelum musik berlirik untuk menjaga stabilitas emosi (Amelia & Aryaneta, 2022).
 </p>
 <p align="justify">
 Dewi, Mahargyantari P., 2009. Studi Meta analisis: Musik untuk Menurunkan Stres. Jurnal Psikologi, 36(2): 106 - 115.
